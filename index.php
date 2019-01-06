@@ -6,7 +6,7 @@
  </title>
  </head>
  <body>
- <h1>Sign in to Cards application</h1>
+ <h1>Kirjautuminen in to Cards application</h1>
  <table>
  <form action="login.php" method="post">
  <tr>
