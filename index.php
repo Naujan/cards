@@ -1,5 +1,4 @@
 <html>
-
  <head>
  <meta charset="UTF-8">
  <title>
@@ -8,6 +7,7 @@
  </head>
  <body>
  <h1>Kirjautuminen in to Cards application</h1>
+ <p>this is a test</>
  <table>
  <form action="login.php" method="post">
  <tr>
